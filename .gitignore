@@ -1,0 +1,25 @@
+# Ignore all files
+*
+
+# Except for these file types
+!*.tex
+!*.pdf
+!*.jpg
+!*.png
+!*.ipynb
+!.gitignore
+!README.md
+!LICENSE
+
+# Also ignore specific files that should not be tracked
+*.bib
+*.aux
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex(busy)
+*.synctex.gz
+*.toc
+*.vrb
