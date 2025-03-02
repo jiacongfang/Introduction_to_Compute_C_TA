@@ -1,6 +1,3 @@
-# Ignore all files
-*
-
 # Except for these file types
 !*.tex
 !*.pdf
@@ -23,3 +20,5 @@
 *.synctex.gz
 *.toc
 *.vrb
+*.DS_Store
+*/_minted-*/
