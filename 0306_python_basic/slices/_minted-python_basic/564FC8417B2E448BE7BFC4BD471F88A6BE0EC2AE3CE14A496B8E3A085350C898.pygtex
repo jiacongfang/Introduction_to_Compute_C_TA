@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+\PYG{n}{a} \PYG{o}{=} \PYG{l+m+mi}{3}   \PYG{c+c1}{\PYGZsh{} a 首次被赋值 =\PYGZgt{} 定义}
+\PYG{n}{b} \PYG{o}{=} \PYG{n}{a}   \PYG{c+c1}{\PYGZsh{} a 被引用而后赋值给 b}
+\PYG{n}{a} \PYG{o}{=} \PYG{l+m+mi}{4}   \PYG{c+c1}{\PYGZsh{} a 被重新赋值}
+\end{Verbatim}
